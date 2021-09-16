@@ -3,10 +3,9 @@
 # coditon.ir
 
 from turtle import *
-from time import sleep
+
 speed(1)
 bgcolor('black')
-sleep(3)
 penup()
 goto(-50, 60)
 pendown()
@@ -28,4 +27,5 @@ goto(100, 0)
 pendown()
 goto(-100, 0)
 done()
-sleep(5)
+
+
